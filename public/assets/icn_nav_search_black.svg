@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="22px" viewBox="0 0 21 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_nav_search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="XS-search-results" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-14.000000, -15.000000)">
+        <g id="icn_nav_search" transform="translate(15.000000, 16.000000)" stroke="#4D4022" stroke-width="2">
+            <path d="M7.21796875,14.4359375 C11.2043428,14.4359375 14.4359375,11.2043428 14.4359375,7.21796875 C14.4359375,3.23159468 11.2043428,0 7.21796875,0 C3.23159468,0 0,3.23159468 0,7.21796875 C0,11.2043428 3.23159468,14.4359375 7.21796875,14.4359375 Z" id="Oval-3"></path>
+            <path d="M12.6314453,13.8344401 L17.73532,18.9383148" id="Line" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
